@@ -1,5 +1,5 @@
-Copyright 2025 Tsao Tung (https://github.com/Tsao-Tung/Chienchia-main)
-Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)
+Copyright 2025 Steve-Yuu (https://github.com/Steve-Yuu/YShi-Written)
+Copyright 2020 The zen-kurenaido Project Authors (https://github.com/googlefonts/zen-kurenaido)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
